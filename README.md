@@ -1,5 +1,5 @@
 # FinnhubPythonWrapper
-A simple Python wrapper for Finnhub.io. This library makes use of [requests](https://github.com/psf/requests)
+A simple Python wrapper for [Finnhub.io](https://finnhub.io/). This library makes use of [requests](https://github.com/psf/requests)
 to fetch data from Finnhub.io and returns the [Pandas](https://github.com/pandas-dev/pandas) dataframes
 
 ## Examples:
